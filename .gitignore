@@ -1,0 +1,11 @@
+data/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# large or regenerated outputs
+results/oof/
+results/test/
+results/optuna.db
+results/submission_*.csv
+results/run.log
